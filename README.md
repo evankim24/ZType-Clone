@@ -3,3 +3,6 @@ Hi, I have created a clone/simulation of the ZType typing game. The goal of the 
 
 # How to Play
 You can eliminate the words letter by letter by typing the corresponding key to the first available letter of the word, i.e., to eliminate the word LOVE, you must first type L, then O then so on and so forth. If the word reaches the bottom prior to eliminating it, you will be met with a loss screen.
+
+# How to Run
+You can run the game by having the main class be tester.Main and the program arguments be set to ExamplesZType
